@@ -1,16 +1,51 @@
+<div style="border:5px solid #D21515;background:#FFFFFF;padding:7px"> 
+<center>
+
+'''It has been proposed that this Wikimedia project be <u>closed</u>, due to the lack of content and activity.''' 
+'''If you wish to comment on this proposal, please visit''' 
+
+'''[[:meta:Proposals for closing projects#Closure of Kanuri Wikipedia]]'''
+</center>
+</div>
+Number of articles: '''{{NUMBEROFARTICLES}}'''
+
 <div align="center">
 <div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
-<big>'''Ushé-ushé! This subdomain is reserved for the creation of a Wikipedia in the [[:en:Kanuri language|Kanuri]] language.'''</big><br />
+<big>'''This subdomain is reserved for the creation of a Wikipedia in the [[:en:Kanuri_language|Kanuri]] language.'''</big><br />
 <br />
 <big>''If you speak Kanuri, go ahead and start working on the encyclopedia!''</big><br />
 <br />
 For more information, see the [[:en:|English Wikipedia]].
 </div>
 
+<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
+<big>'''Ce lieu est reservé pour la création d'un Wikipédia en langue [[:en:Kanuri_language|Kanuri]].'''</big><br /><br />
+<big>''Si vous parlez Kanuri, modifiez le texte et commencez à écrire dans l'encyclopédie !''</big><br /><br />
+Pour d'autres informations, voir le [[:fr:|Wikipédia francophone]].
+</div>
+
+<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center" dir="rtl">
+<big>'''هذا الموقع مختص لكتابة موسوعة حرة "ويكيبيديا" بالكانورية..'''</big><br /><br />
+<big>إذا يعجب الفكرة، فاكتبها! إضغط عبلى edit وترجم هذا النص إلى الكانورية أو ابدأ أن تكتب مقالات.</big><br /><br />
+[[:ar:|لمعلومات أحرى ومساعدة بالعربية إضغط هنا.]]
+</div>
+
+<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
+<big>'''Este subdominio está reservado para la creación de una Wikipedia en lengua [[:en:Kanuri_language|Kanuri]].'''</big><br /><br />
+<big>''Si usted habla Kanuri, modifique el texto y comience a trabajar en la enciclopedia.''</big><br /><br />
+Para mayor información, visite la [[:es:|Wikipedia en español]].
+</div>
+
+<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
+<big>'''Diese Subdomain ist für die Erstellung einer Wikipedia in der [[:de:Kanuri (Sprache)|Kanuri]] Sprache reserviert.'''</big><br /><br />
+<big>''Wenn du diese Sprache sprichst, fang gleich an, an der Enzyklopädie zu arbeiten!''</big><br /><br />
+Weitere Informationen befinden sich auf der [[:de:|Deutsche Wikipedia]].
+</div>
+
 '''[http://www.wikipedia.org/ www.wikipedia.org (main site)]'''
 </div>
 
-== Language ==
+==Other African-language Wikipedias that are not among large ones==
 [[:aa:|Afar]]&nbsp;·
 [[:af:|Afrikaans]]&nbsp;·
 [[:ak:|Akan]]&nbsp;·
