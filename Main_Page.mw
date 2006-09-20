@@ -1,53 +1,10 @@
 <h1 align="center" size="5"><font face="Old English Text MT" color="blue">Welcome to Kanuri Wikipedia!</font></h1>
-
+To make a new article, click the button below.
 {| width="60%" style="border:1px solid black"
 |
-<inputbox>
+<inputbox><align="center">
 type=create
 width=45
 </inputbox>
 |}
-
-==Other African-language Wikipedias that are not among large ones==
-[[:aa:|Afar]]&nbsp;·
-[[:af:|Afrikaans]]&nbsp;·
-[[:ak:|Akan]]&nbsp;·
-[[:am:|አማርኛ]]&nbsp;·
-[[:bm:|Bamanankan]]&nbsp;·
-[[:ny:|Chi-Chewa]]&nbsp;·
-[[:sn:|chiShona]]&nbsp;·
-[[:tum:|chiTumbuka]]&nbsp;·
-[[:ee:|Ɛʋɛ]]&nbsp;·
-[[:ff:|Fulfude]]&nbsp;·
-[[:ki:|Gĩkũyũ]]&nbsp;·
-[[:ha:|هَوُسَ]]&nbsp;·
-[[:ig:|Ìgbo]]&nbsp;·
-[[:xh:|isiXhosa]]&nbsp;·
-[[:zu:|isiZulu]]&nbsp;·
-[[:rw:|Kinyarwanda]]&nbsp;·
-[[:rn:|Kirundi]]&nbsp;·
-[[:sw:|Kiswahili]]&nbsp;·
-[[:kg:|Kongo]]&nbsp;·
-[[:kj:|Kuanyama]]&nbsp;·
-[[:ln:|Lingala]]&nbsp;·
-[[:lg:|Luganda]]&nbsp;·
-[[:mg:|Malagasy]]&nbsp;·
-[[:mt:|Malti]]&nbsp;·
-[[:om:|Oromoo]]&nbsp;·
-[[:ng:|Oshiwambo]]&nbsp;·
-[[:hz:|Otsiherero]]&nbsp;·
-[[:sg:|Sängö]]&nbsp;·
-[[:st:|seSotho]]&nbsp;·
-[[:tn:|Setswana]]&nbsp;·
-[[:ss:|SiSwati]]&nbsp;·
-[[:so:|Soomaaliga]]&nbsp;·
-[[:ti:|ትግርኛ]]&nbsp;·
-[[:ve:|Tshivenda]]&nbsp;·
-[[:tw:|Twi]]&nbsp;·
-[[:wo:|Wolof]]&nbsp;·
-[[:ts:|Xitsonga]]&nbsp;·
-[[:yo:|Yorùbá]]&nbsp;·
-(For other large Wikipedias, look into the side-bar.)
-
-<!-- interwikis to large Wikipedias (more that 10,000 articles) -->
-[[ar:]][[id:]][[ms:]][[bg:]][[ca:]][[cs:]][[da:]][[de:]][[et:]][[el:]][[en:]][[es:]][[eo:]][[fa:]][[fr:]][[gl:]][[ko:]][[he:]][[hr:]][[io:]][[is:]][[it:]][[lt:]][[hu:]][[nl:]][[ja:]][[no:]][[nn:]][[pl:]][[pt:]][[ro:]][[ru:]][[sk:]][[sl:]][[sr:]][[fi:]][[sv:]][[th:]][[tr:]][[uk:]][[zh:]]
+<h1 align="center" size="5"><font face="onyx" color="blue">Welcome to the official Runescape Trade Forum! Post your trades by clicking the button above.</font></h1>
