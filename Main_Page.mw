@@ -1,5 +1,6 @@
 <h1 align="center" size="5"><font face="Old English Text MT" color="blue">Welcome to Kanuri Wikipedia!</font></h1>
-To make a new article, click the button below.
+<h1 align="center" size="5"><font face="Old English Text MT" color="green">To make a new article, click the button below.
+</font></h1>
 <center>
 {| width="60%" style="border:1px solid black"
 |
@@ -8,4 +9,4 @@ type=create
 width=45
 </inputbox>
 |}
-<h1 align="center" size="5"><font face="cooper black mt" color="blue">Welcome to the official Runescape Trade Forum! Post your trades by clicking the button above.</font></h1>
+<h1 align="center" size="5"><font face="Courier New" color="Green">Welcome to the official Runescape Trade Forum! Post your trades by clicking the button above.</font></h1>
