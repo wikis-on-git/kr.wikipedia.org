@@ -2,7 +2,7 @@
 To make a new article, click the button below.
 {| width="60%" style="border:7px solid green"
 |
-<inputbox><align="center">
+<inputbox align="center">
 type=create
 width=45
 </inputbox>
