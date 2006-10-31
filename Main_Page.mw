@@ -1,6 +1,6 @@
 <h1 align="center" size="5"><font face="Old English Text MT" color="blue">Welcome to Kanuri Wikipedia!</font></h1>
 <center>To make a new article, click the button below.
-{| width="60%" style="border:7px solid green"
+{| width="60%" style="border:5px solid brown"
 |
 <center><inputbox align="center">
 type=create
